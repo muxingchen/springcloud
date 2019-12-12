@@ -5,8 +5,8 @@ public class Test {
 		
 		System.out.println("Hello对面的那个xxx");
 		System.out.println("Hello对面的那个xxx");
-		
 		System.out.println("Hello对面的那个xxx");
+		
 	}
 
 }
